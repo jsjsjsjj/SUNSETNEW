@@ -1,0 +1,16 @@
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\bin\Debug\net9.0\Sunset.Repositorio.deps.json
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\bin\Debug\net9.0\Sunset.Repositorio.dll
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\bin\Debug\net9.0\Sunset.Repositorio.pdb
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\bin\Debug\net9.0\Sunset.Modelos.dll
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\bin\Debug\net9.0\Sunset.Modelos.pdb
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\Sunset.Repositorio.csproj.AssemblyReference.cache
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\Sunset.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\Sunset.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\Sunset.Repositorio.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\Sunset.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\Sunset.Repositorio.sourcelink.json
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\Sunset.R.41581B31.Up2Date
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\Sunset.Repositorio.dll
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\refint\Sunset.Repositorio.dll
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\Sunset.Repositorio.pdb
+C:\Users\Patrick\Desktop\PIM4Faculdade\FINAL\Sunset.Repositorio\obj\Debug\net9.0\ref\Sunset.Repositorio.dll

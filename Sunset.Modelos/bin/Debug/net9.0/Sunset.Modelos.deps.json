@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Sunset.Modelos/1.0.0": {
+        "runtime": {
+          "Sunset.Modelos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sunset.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
